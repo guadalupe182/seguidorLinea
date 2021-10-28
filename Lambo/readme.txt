@@ -1,0 +1,1 @@
+Para instalar las librerías, deben pegar las 3 carpetas en: "mis documento/arduino/libraries"
